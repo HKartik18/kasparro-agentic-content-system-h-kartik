@@ -1,4 +1,4 @@
-
+"""
 Main Controller for Multi-Agent Content Generation System
 """
 
