@@ -7,4 +7,4 @@ Features:
 - {product_data['features'][0]}
 - {product_data['features'][1]}
 - {product_data['features'][2]}
-""" 
+"""
