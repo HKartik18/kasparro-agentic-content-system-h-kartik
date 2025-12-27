@@ -1,11 +1,12 @@
 class DataParserAgent:
-    def parse(self, raw_data):
+    def parse(self, source):
+        # Sample static product data
         return {
-            "name": "Sample Product",
-            "price": "₹999",
+            "name": "Smart Fitness Watch",
+            "price": "$99",
             "features": [
-                "Feature 1",
-                "Feature 2",
-                "Feature 3"
+                "Heart Rate Monitoring",
+                "Sleep Tracking",
+                "Water Resistant"
             ]
         }
